@@ -23,10 +23,6 @@ This cheat sheet includes handy keyboard shortcuts and command-line tricks to bo
 | `Ctrl + W`             | Deletes word before the cursor.                                             |
 | `Ctrl + D`             | Log out or delete character under the cursor (careful!).                    |
 | `Ctrl + C`             | Terminates the currently running command.                                   |
-| `Ctrl + Z`             | Sends the current process to the background (pause).                        |
-| `fg`                   | Resumes a background job in the foreground.                                 |
-| `bg`                   | Resumes a background job in the background.                                 |
-| `jobs`                 | Lists jobs started in the current shell session.                            |
 | `exit`                 | Exit the terminal session.                                                  |
 
 ---
